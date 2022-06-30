@@ -1,4 +1,4 @@
-# <h1>Spider-man</h1>
+# <h1 align="center">Spider-man</h1>
 
 <img src="https://user-images.githubusercontent.com/74615811/176758761-1c426545-015e-450f-868e-b0103cf0ddc6.png">
 
@@ -51,6 +51,7 @@ https://user-images.githubusercontent.com/74615811/176759637-5954e7ef-822f-4239-
 - ``HTML``
 - ``CSS``
 - ``JavaScript``
+- ``JQuery``
 
 ## 📁 Acesso ao projeto / Access the project
 
