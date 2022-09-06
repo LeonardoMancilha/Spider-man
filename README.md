@@ -15,9 +15,9 @@
 
 ## 💻 Descrição do projeto / Description of the project
 
-<h2>Portuguese</h2> Este é um projeto do Homem-Aranha para aprimorar minhas habilidades em HTML, CSS e JavaScript. Pessoalmente, gosto muito do homem aranha e esse projeto é ótimo para mim. Ter feito um projeto sobre o Homem-Aranha me deixou feliz. <br>
+<h2>Portuguese</h2> Este é um projeto do Homem-Aranha feito para aprimorar minhas habilidades em HTML, CSS e JavaScript. Pessoalmente, gosto muito do homem aranha e esse projeto é ótimo para mim. Ter feito um projeto sobre o Homem-Aranha me deixou feliz. <br>
 
-<h2>English</h2> Hello, people! This is a project of Spider-man in order to improve my skills in HTML, CSS and JavaScript. Personally, I like very much spider man and this project are great for me. To have done a project about Spider man made me proud.
+<h2>English</h2> Hello, people! This is a project of Spider-man done in order to improve my skills in HTML, CSS and JavaScript. Personally, I like very much spider man and this project are great for me. To have done a project about Spider man made me proud.
 
 ---
 
